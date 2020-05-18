@@ -1,3 +1,5 @@
+## This folder has example of using DeepAR model in sagemaker to perform prediction of Bike rental
+
 Bike Sharing Demand  
 https://www.kaggle.com/c/bike-sharing-demand/data  
 
