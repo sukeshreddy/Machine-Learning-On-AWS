@@ -1,4 +1,4 @@
-The folder has the following
+## The folder has the following
 1. Notebook file which pulls in the data file , creates lags in the data, runs it against Linear learner and creates an endpoint
 2. Code for Lambda to make the required transformations and run it againt the model endpoint.
 
