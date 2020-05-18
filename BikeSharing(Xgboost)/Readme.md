@@ -1,4 +1,4 @@
-This folder has Jupyter Notebooks 
+# This folder has Jupyter Notebooks to 
 1. CLoud prediction template
 2. Cloud Training Template ( shows how to train/deploy and get predictions)
 3. Rev1 files are without Logarithmic tranformation
